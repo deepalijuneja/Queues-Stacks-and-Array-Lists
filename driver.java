@@ -1,5 +1,5 @@
 /**
- * The driver class for homework 3
+ * The driver class 
  * @author Deepali Juneja
  * @version 21 April 2020
  */
