@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * The first part of the homework: theArrayL-like Interference
+ * The first part theArrayL-like Interference
  * 
  * @author Deepali Juneja
  * @version 21 April 2020
